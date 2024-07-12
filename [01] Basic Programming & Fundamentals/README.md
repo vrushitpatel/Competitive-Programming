@@ -1,2 +1,2 @@
-# Coding Platforms
-Name the File with the Question Number and the Question Title.
+# Basic Programming & Fundamentals
+Containing the Basic Programming Syntax and Problems, along with the Competitive Programming Fundamentals.
