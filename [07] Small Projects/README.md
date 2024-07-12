@@ -1,2 +1,2 @@
-# Coding Platforms
-Name the File with the Question Number and the Question Title.
+# Small Projects
+This will be mainly used for small Algorithm based projects.
