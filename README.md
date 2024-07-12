@@ -1,6 +1,9 @@
 # Competitive-Programming
 This repository is mainly for Data Structure and Algorithms Notes, Competitive Coding Questions, Contest Questions attended and Small Projects.
 
+## Language
+Using `Python` for Competitive-Programming.
+
 ## 📺 YouTube Playlist
 - [Abdul Bari's Algorithms Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [William Fiset's Data Structure Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
