@@ -1,2 +1,2 @@
-# Coding Platforms
-Name the File with the Question Number and the Question Title.
+# Data Structures Concepts
+This folder will contain all the concepts and learnings of the Data Structures learnt.
