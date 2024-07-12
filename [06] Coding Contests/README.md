@@ -1,2 +1,2 @@
-# Coding Platforms
-Name the File with the Question Number and the Question Title.
+# Coding Contests
+Here I will be storing the Contest Question which I attended.
