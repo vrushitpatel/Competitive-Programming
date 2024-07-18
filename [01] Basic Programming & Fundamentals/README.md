@@ -3,8 +3,8 @@ Containing the Basic Programming Syntax and Problems, along with the Competitive
 
 ## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
-- Analysis of Algorithms 
-- Asymptotic Analysis 
+- [Design and Analysis of Algorithms](https://www.geeksforgeeks.org/design-and-analysis-of-algorithms/)
+- [Asymptotic Analysis](https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)
 - Order of Growth
 - Best, Average and Worst Cases
 - Asymptotic Notations
