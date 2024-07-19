@@ -4,8 +4,8 @@ Containing the Basic Programming Syntax and Problems, along with the Competitive
 ## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
 - [Design and Analysis of Algorithms](https://www.geeksforgeeks.org/design-and-analysis-of-algorithms/)
-- [Asymptotic Analysis](https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)
-- Order of Growth
+- [Order of Growth](https://github.com/vrushitpatel/Competitive-Programming/blob/master/%5B01%5D%20Basic%20Programming%20%26%20Fundamentals/%5B01%5D%20Fundamentals/%5B01%5D%20Order%20of%20Growth.md)
+- [Asymptotic Analysis](https://github.com/vrushitpatel/Competitive-Programming/blob/master/%5B01%5D%20Basic%20Programming%20%26%20Fundamentals/%5B01%5D%20Fundamentals/%5B02%5D%20Asymptotic%20Analysis.md)
 - Best, Average and Worst Cases
 - Asymptotic Notations
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
