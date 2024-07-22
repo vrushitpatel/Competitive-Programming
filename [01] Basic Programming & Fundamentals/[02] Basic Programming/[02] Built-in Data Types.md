@@ -1,5 +1,5 @@
 
-# 📌 Python Data Types
+# 📌 Python Built-in Data Types
 
 View it in Detail here: [Python Tutorial](https://www.w3schools.com/python/default.asp)
 
