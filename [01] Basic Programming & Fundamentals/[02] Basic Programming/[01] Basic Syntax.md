@@ -187,5 +187,3 @@ myfunc()
 
 print("Python is " + x)  # Python is fantastic
 ```
-```python
-```
