@@ -208,7 +208,13 @@ To specify a string as an f-string, simply put an f in front of the string liter
 age = 36
 txt = f"My name is John, I am {age}"
 print(txt) # My name is John, I am 36
-``` 
+```
+### Using Format Function
+```python
+age = 36
+txt = "My name is John, and I am {}"
+print(txt.format(age))
+```
 ### Placeholders and Modifiers
 A placeholder can contain variables, operations, functions, and modifiers to format the value.
 ```python
