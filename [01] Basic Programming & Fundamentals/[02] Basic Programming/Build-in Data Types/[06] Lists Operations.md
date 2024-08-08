@@ -9,7 +9,6 @@ View it in Detail here: [Python Tutorial](https://www.w3schools.com/python/defau
 - Sort Lists
 - Copy Lists
 - Join Lists
-- List Methods
 
 ### Loop Through a List:
 You can loop through the list items by using a `for` loop:
@@ -218,4 +217,70 @@ The `reverse()` method reverses the current sorting order of the elements.
 thislist = ["banana", "Orange", "Kiwi", "cherry"]
 thislist.reverse()
 print(thislist) # ['cherry', 'Kiwi', 'Orange', 'banana']
+```
+
+### Copy a List
+You cannot copy a list simply by typing `list2 = list1`, because: `list2` will only be a reference to `list1`, and changes made in `list1` will automatically also be made in `list2`.
+#### Use the copy() method
+You can use the built-in List method `copy()` to copy a list.
+```python
+# Make a copy of a list with the copy() method:
+
+thislist = ["apple", "banana", "cherry"]
+mylist = thislist.copy()
+print(mylist) # ["apple", "banana", "cherry"]
+```
+#### Use the list() method
+Another way to make a copy is to use the built-in method `list()`.
+```python
+# Make a copy of a list with the list() method:
+
+thislist = ["apple", "banana", "cherry"]
+mylist = list(thislist)
+print(mylist) # ["apple", "banana", "cherry"]
+```
+#### Use the slice Operator
+You can also make a copy of a list by using the `:` (slice) operator.
+```python
+# Make a copy of a list with the : operator:
+
+thislist = ["apple", "banana", "cherry"]
+mylist = thislist[:]
+print(mylist) # ["apple", "banana", "cherry"]
+```
+
+### Join Lists
+There are several ways to join, or concatenate, two or more lists in Python.
+
+One of the easiest ways are by using the `+` operator.
+```python
+# Join two list:
+
+list1 = ["a", "b", "c"]
+list2 = [1, 2, 3]
+
+list3 = list1 + list2
+print(list3) # ['a', 'b', 'c', 1, 2, 3]
+```
+Another way to join two lists is by appending all the items from list2 into list1, one by one:
+```python
+# Append list2 into list1:
+
+list1 = ["a", "b" , "c"]
+list2 = [1, 2, 3]
+
+for x in list2:
+  list1.append(x)
+
+print(list1) # ['a', 'b', 'c', 1, 2, 3]
+```
+Or you can use the `extend()` method, where the purpose is to add elements from one list to another list:
+```python
+# Use the extend() method to add list2 at the end of list1:
+
+list1 = ["a", "b" , "c"]
+list2 = [1, 2, 3]
+
+list1.extend(list2)
+print(list1) # ['a', 'b', 'c', 1, 2, 3]
 ```
