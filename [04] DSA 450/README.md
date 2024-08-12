@@ -20,6 +20,5 @@ Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d
 ## Array / Lists
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Reverse String](https://leetcode.com/problems/reverse-string/description/)| [Python](%5B01%5D%20Strings/ReverseString.py)|Easy|
-|2|[Vaild Palidrome](https://leetcode.com/problems/valid-palindrome/description/)| [Python](%5B01%5D%20Strings/VaildPalidrome.py)|Easy|
-|3| Not Solved Yet [Find the duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)||Easy|
+|1|[Reverse the Array](https://www.geeksforgeeks.org/program-to-reverse-an-array/#)| [Python](%5B02%5D%20Arrays/ReverseList.py)|Easy|
+|2|[Maximum and Minimum](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)| [Python](%5B02%5D%20Arrays/Max-n-Min-List.py)|Easy|
