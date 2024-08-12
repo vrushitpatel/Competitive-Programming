@@ -16,3 +16,10 @@ Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
+
+## Array / Lists
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Reverse String](https://leetcode.com/problems/reverse-string/description/)| [Python](%5B01%5D%20Strings/ReverseString.py)|Easy|
+|2|[Vaild Palidrome](https://leetcode.com/problems/valid-palindrome/description/)| [Python](%5B01%5D%20Strings/VaildPalidrome.py)|Easy|
+|3| Not Solved Yet [Find the duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)||Easy|
