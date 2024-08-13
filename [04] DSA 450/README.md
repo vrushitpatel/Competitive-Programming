@@ -22,3 +22,4 @@ Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d
 |---| ----- | -------- | ---------- |
 |1|[Reverse the Array](https://www.geeksforgeeks.org/program-to-reverse-an-array/#)| [Python](%5B02%5D%20Arrays/ReverseList.py)|Easy|
 |2|[Maximum and Minimum](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)| [Python](%5B02%5D%20Arrays/Max-n-Min-List.py)|Easy|
+|4|[Two Sum](https://leetcode.com/problems/two-sum/description/)| [Python](%5B02%5D%20Arrays/Two%20Sum.py)|Easy|
