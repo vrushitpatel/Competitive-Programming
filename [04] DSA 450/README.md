@@ -1,6 +1,11 @@
 # DSA 450 💻
 Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view?pli=1)
 
+## Numbers
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Ternary Operator](https://leetcode.com/problems/smallest-even-multiple/)| [Python](%5B01%5D%20Numbers/TernaryOperator.py)|Easy|
+
 ## Strings
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -10,12 +15,12 @@ Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d
 |4| Not Solved Yet - Why Strings are immutable in Java? ||Easy|
 |5|[Check if one string is a Rotation of another](https://leetcode.com/problems/rotate-string/description/)| [Python](%5B01%5D%20Strings/RotateString.py)|Easy|
 |6|[Checking valid shuffle of two Strings](https://www.geeksforgeeks.org/checking-valid-shuffle-of-two-strings/)| Python |Easy|
-|7|[Shuffle String](https://leetcode.com/problems/shuffle-string/description/)| [Python](%5B01%5D%20Strings/ShuffleString.py)|Easy|
-|xx| xx -- | xx xx -- | xx xx xx - | xx xx -- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./algorithms/cpp/twoSum/twoSum.cpp), [Go](./algorithms/golang/twoSum/twoSum.go)|Easy|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
+|7|[Shuffle String](https://leetcode.com/problems/shuffle-string/description/)| [Python](%5B01%5D%20Strings/ShuffleString.py)|Easy| 
+|8|[Score of a String](https://leetcode.com/problems/score-of-a-string/description/)| [Python](%5B01%5D%20Strings/ScoreString.py)|Easy|
+|9|[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/)| [Python](%5B01%5D%20Strings/PermutationStrings.py)|Easy|
+|10|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)| [Python](%5B01%5D%20Strings/DefangingIPAddress.py)|Easy|
+|11|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)| [Python](%5B01%5D%20Strings/FindWordsCharacter.py)|Easy|
+|12|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)| [Python](%5B01%5D%20Strings/MaxWords.py)|Easy|
 
 ## Array / Lists
 | # | Title | Solution | Difficulty |

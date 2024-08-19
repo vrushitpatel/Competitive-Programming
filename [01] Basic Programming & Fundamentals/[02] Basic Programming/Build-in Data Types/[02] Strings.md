@@ -188,6 +188,10 @@ print(c) # HelloWorld
 print(d) # Hello World
 ``` 
 
+## ASCII Value
+- ord() - Converts a Character into a ASCII Value
+- chr() - Converts a ASCII Value into a Character
+
 ## Formatted Strings
 
 As we learned in the Python Variables chapter, we cannot combine strings and numbers like this:
