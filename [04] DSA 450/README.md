@@ -21,6 +21,9 @@ Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d
 |10|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)| [Python](%5B01%5D%20Strings/DefangingIPAddress.py)|Easy|
 |11|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)| [Python](%5B01%5D%20Strings/FindWordsCharacter.py)|Easy|
 |12|[Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)| [Python](%5B01%5D%20Strings/MaxWords.py)|Easy|
+|13|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)| [Python](%5B01%5D%20Strings/ReversePrefix.py)|Easy|
+|14|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/)| [Python](%5B01%5D%20Strings/BalancedStrings.py)|Easy|
+|15|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [Python](%5B01%5D%20Strings/TruncateSentence.py)|Easy|
 
 ## Array / Lists
 | # | Title | Solution | Difficulty |
