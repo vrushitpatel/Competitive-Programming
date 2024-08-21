@@ -24,6 +24,8 @@ Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d
 |13|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)| [Python](%5B01%5D%20Strings/ReversePrefix.py)|Easy|
 |14|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/)| [Python](%5B01%5D%20Strings/BalancedStrings.py)|Easy|
 |15|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [Python](%5B01%5D%20Strings/TruncateSentence.py)|Easy|
+|16|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)| [Python](%5B01%5D%20Strings/DictionaryMatching.py)|Easy|
+|17|[Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)| [Python](%5B01%5D%20Strings/ExcelCells.py)|Easy|
 
 ## Array / Lists
 | # | Title | Solution | Difficulty |
