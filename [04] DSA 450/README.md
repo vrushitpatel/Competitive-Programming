@@ -26,6 +26,10 @@ Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d
 |15|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [Python](%5B01%5D%20Strings/TruncateSentence.py)|Easy|
 |16|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)| [Python](%5B01%5D%20Strings/DictionaryMatching.py)|Easy|
 |17|[Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)| [Python](%5B01%5D%20Strings/ExcelCells.py)|Easy|
+|18|[Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)| [Python](%5B01%5D%20Strings/FirstPalindrom.py)|Easy|
+|19|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)| [Python](%5B01%5D%20Strings/NestedDepth.py)|Easy|
+|20|[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/description/)| [Python](%5B01%5D%20Strings/FaultyKeyboard.py)|Easy|
+|21|[Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/description/)| [Python](%5B01%5D%20Strings/SnakeInMatrix.py)|Easy|
 
 ## Array / Lists
 | # | Title | Solution | Difficulty |
