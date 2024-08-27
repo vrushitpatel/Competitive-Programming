@@ -30,6 +30,9 @@ Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d
 |19|[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)| [Python](%5B01%5D%20Strings/NestedDepth.py)|Easy|
 |20|[Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/description/)| [Python](%5B01%5D%20Strings/FaultyKeyboard.py)|Easy|
 |21|[Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/description/)| [Python](%5B01%5D%20Strings/SnakeInMatrix.py)|Easy|
+|22|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)| [Python](%5B01%5D%20Strings/RemoveSubstring.py)|Easy|
+|23|[Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/)| [Python](%5B01%5D%20Strings/EncryptedString.py)|Easy|
+|24|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/)| [Python](%5B01%5D%20Strings/3SameDigitSum.py)|Easy|
 
 ## Array / Lists
 | # | Title | Solution | Difficulty |
