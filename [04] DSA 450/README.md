@@ -35,6 +35,7 @@ Link to all the 450 DSA Questions [Google Sheet](https://drive.google.com/file/d
 |24|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/)| [Python](%5B01%5D%20Strings/3SameDigitSum.py)|Easy|
 |25|[Minimize String Length](https://leetcode.com/problems/minimize-string-length/description/)| [Python](%5B01%5D%20Strings/CountAlphabets.py)|Easy|
 |26|[Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/)| [Python](%5B01%5D%20Strings/SplitStringsSeparator.py)|Easy|
+|27|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)| [Python](%5B01%5D%20Strings/CharacterLength.py)|Easy|
 
 ## Array / Lists
 | # | Title | Solution | Difficulty |
