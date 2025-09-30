@@ -29,10 +29,10 @@ Arithmetic operators are used with numeric values to perform common mathematical
 | -------- | ---- | ------- |
 | + | Addition | x + y |
 | - | Subtraction | x - y |
-| _ | Multiplication | x _ y |
+| \* | Multiplication | x \* y |
 | / | Division | x / y |
 | % | Modulus [Rem] | x % y |
-| ** | Exponentiation | x ** y |
+| \*\* | Exponentiation | x \*\* y |
 | // | Floor division | x // y |
 
 ### Assignment Operators
@@ -43,7 +43,7 @@ Assignment operators are used to assign values to variables:
 | = | x = 5 | x = 5 |
 | += | x += 3 | x = x + 3 |
 | -= | x -= 3 | x = x - 3 |
-| _= | x _= 3 | x = x \* 3 |
+| \*= | x \*= 3 | x = x \* 3 |
 | /= | x /= 3 | x = x / 3 |
 | %= | x %= 3 | x = x % 3 |
 | //= | x //= 3 | x = x // 3 |
