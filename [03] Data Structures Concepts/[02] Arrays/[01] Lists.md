@@ -136,7 +136,8 @@ print(thislist[2:5])
         <td>
 
 <pre><code>
-# This example returns the items from the beginning to, but NOT including, "kiwi":
+# This example returns the items from the 
+beginning to, but NOT including, "kiwi":
 
 thislist = ["apple", "banana", "cherry", 
 "orange", "kiwi", "melon", "mango"]
@@ -154,7 +155,8 @@ print(thislist[:4])
         <td>
 
 <pre><code>
-# This example returns the items from "cherry" to the end:
+# This example returns the items from 
+"cherry" to the end:
 
 thislist = ["apple", "banana", "cherry", 
 "orange", "kiwi", "melon", "mango"]
@@ -172,7 +174,8 @@ print(thislist[2:])
         <td>
 
 <pre><code>
-# This example returns the items from "orange" (-4) to, but NOT including "mango" (-1):
+# This example returns the items from "orange" 
+(-4) to, but NOT including "mango" (-1):
 
 thislist = ["apple", "banana", "cherry", 
 "orange", "kiwi", "melon", "mango"]
@@ -242,7 +245,8 @@ print(thislist)
         <td>
 
 <pre><code>
-# Change the second value by replacing it with two new values:
+# Change the second value by replacing it 
+with two new values:
 
 thislist = ["apple", "banana", "cherry"]
 thislist[1:2] = ["blackcurrant", "watermelon"] 
@@ -260,7 +264,8 @@ print(thislist)
         <td>
 
 <pre><code>
-# Change the second and third value by replacing it with one value:
+# Change the second and third value by 
+replacing it with one value:
 
 thislist = ["apple", "banana", "cherry"]
 thislist[1:3] = ["watermelon"] 
@@ -393,7 +398,7 @@ thislist = ["apple", "banana", "cherry"]
 del thislist
 print(thislist) 
 #this will cause an error because you 
-#have succsesfully deleted "thislist".
+have succsesfully deleted "thislist".
 </code></pre>
 
 </td>
