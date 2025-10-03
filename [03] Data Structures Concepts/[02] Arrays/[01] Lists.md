@@ -53,7 +53,8 @@ list4 = ["abc", 34, True, 40, "male"]
 thislist = ["apple", "banana", "cherry"]
 print(thislist) # ["apple", "banana", "cherry"]
 <br/>
-thislist = list(("apple", "banana", "cherry")) # note the double round-brackets
+thislist = list(("apple", "banana", "cherry")) 
+# note the double round-brackets
 print(thislist) # ['apple', 'banana', 'cherry']
 </code></pre>
         </td>
@@ -119,8 +120,10 @@ print(thislist[-1]) # cherry
 <pre><code>
 # Return the third, fourth, and fifth item:
 
-thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-print(thislist[2:5]) # ['cherry', 'orange', 'kiwi']
+thislist = ["apple", "banana", "cherry", 
+"orange", "kiwi", "melon", "mango"]
+print(thislist[2:5]) 
+# ['cherry', 'orange', 'kiwi']
 </code></pre>
 
 </td>
@@ -135,8 +138,10 @@ print(thislist[2:5]) # ['cherry', 'orange', 'kiwi']
 <pre><code>
 # This example returns the items from the beginning to, but NOT including, "kiwi":
 
-thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-print(thislist[:4]) # ['apple', 'banana', 'cherry', 'orange']
+thislist = ["apple", "banana", "cherry", 
+"orange", "kiwi", "melon", "mango"]
+print(thislist[:4]) 
+# ['apple', 'banana', 'cherry', 'orange']
 </code></pre>
 
 </td>
@@ -151,8 +156,10 @@ print(thislist[:4]) # ['apple', 'banana', 'cherry', 'orange']
 <pre><code>
 # This example returns the items from "cherry" to the end:
 
-thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-print(thislist[2:]) # ["cherry", "orange", "kiwi", "melon", "mango"]
+thislist = ["apple", "banana", "cherry", 
+"orange", "kiwi", "melon", "mango"]
+print(thislist[2:]) 
+# ["cherry", "orange", "kiwi", "melon", "mango"]
 </code></pre>
 
 </td>
@@ -167,8 +174,10 @@ print(thislist[2:]) # ["cherry", "orange", "kiwi", "melon", "mango"]
 <pre><code>
 # This example returns the items from "orange" (-4) to, but NOT including "mango" (-1):
 
-thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-print(thislist[-4:-1]) # ['orange', 'kiwi', 'melon']
+thislist = ["apple", "banana", "cherry", 
+"orange", "kiwi", "melon", "mango"]
+print(thislist[-4:-1]) 
+# ['orange', 'kiwi', 'melon']
 </code></pre>
 
 </td>
@@ -185,7 +194,8 @@ print(thislist[-4:-1]) # ['orange', 'kiwi', 'melon']
 
 thislist = ["apple", "banana", "cherry"]
 if "apple" in thislist:
-  print("Yes, 'apple' is in the fruits list") # Yes, 'apple' is in the fruits list
+  print("Yes, 'apple' is in the fruits list") 
+  # Yes, 'apple' is in the fruits list
 </code></pre>
 
 </td>
@@ -200,7 +210,8 @@ if "apple" in thislist:
 <pre><code>
 thislist = ["apple", "banana", "cherry"]
 thislist[1] = "blackcurrant"
-print(thislist) # ['apple', 'blackcurrant', 'cherry']
+print(thislist) 
+# ['apple', 'blackcurrant', 'cherry']
 </code></pre>
 
 </td>
@@ -213,9 +224,12 @@ print(thislist) # ['apple', 'blackcurrant', 'cherry']
         <td>
 
 <pre><code>
-thislist = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
+thislist = ["apple", "banana", "cherry", 
+"orange", "kiwi", "mango"]
 thislist[1:3] = ["blackcurrant", "watermelon"]
-print(thislist) # ['apple', 'blackcurrant', 'watermelon', 'orange', 'kiwi', 'mango']
+print(thislist) 
+# ['apple', 'blackcurrant', 'watermelon', 
+'orange', 'kiwi', 'mango']
 </code></pre>
 
 </td>
@@ -231,7 +245,8 @@ print(thislist) # ['apple', 'blackcurrant', 'watermelon', 'orange', 'kiwi', 'man
 # Change the second value by replacing it with two new values:
 
 thislist = ["apple", "banana", "cherry"]
-thislist[1:2] = ["blackcurrant", "watermelon"] # ['apple', 'blackcurrant', 'watermelon', 'cherry']
+thislist[1:2] = ["blackcurrant", "watermelon"] 
+# ['apple', 'blackcurrant', 'watermelon', 'cherry']
 print(thislist)
 </code></pre>
 
@@ -248,7 +263,8 @@ print(thislist)
 # Change the second and third value by replacing it with one value:
 
 thislist = ["apple", "banana", "cherry"]
-thislist[1:3] = ["watermelon"] # ['apple', 'watermelon']
+thislist[1:3] = ["watermelon"] 
+# ['apple', 'watermelon']
 print(thislist)
 </code></pre>
 
@@ -265,7 +281,8 @@ print(thislist)
 #Insert "watermelon" as the third item:
 
 thislist = ["apple", "banana", "cherry"]
-thislist.insert(2, "watermelon") # ['apple', 'banana', 'watermelon', 'cherry']
+thislist.insert(2, "watermelon") 
+# ['apple', 'banana', 'watermelon', 'cherry']
 print(thislist)
 </code></pre>
 
@@ -280,7 +297,8 @@ print(thislist)
 
 <pre><code>
 thislist = ["apple", "banana", "cherry"]
-thislist.append("orange") # ['apple', 'banana', 'cherry', 'orange']
+thislist.append("orange") 
+# ['apple', 'banana', 'cherry', 'orange']
 print(thislist)
 </code></pre>
 
@@ -297,7 +315,9 @@ print(thislist)
 thislist = ["apple", "banana", "cherry"]
 tropical = ["mango", "pineapple", "papaya"]
 thislist.extend(tropical)
-print(thislist) # ['apple', 'banana', 'cherry', 'mango', 'pineapple', 'papaya']
+print(thislist) 
+# ['apple', 'banana', 'cherry', 'mango', 
+'pineapple', 'papaya']
 </code></pre>
 
 </td>
@@ -313,7 +333,8 @@ print(thislist) # ['apple', 'banana', 'cherry', 'mango', 'pineapple', 'papaya']
 thislist = ["apple", "banana", "cherry"]
 thistuple = ("kiwi", "orange")
 thislist.extend(thistuple)
-print(thislist) # ['apple', 'banana', 'cherry', 'kiwi', 'orange']
+print(thislist) 
+# ['apple', 'banana', 'cherry', 'kiwi', 'orange']
 </code></pre>
 
 </td>
@@ -333,7 +354,8 @@ print(thislist) # ['apple', 'cherry']
 <br>
 thislist = ["apple", "banana", "cherry", "banana", "kiwi"]
 thislist.remove("banana")
-print(thislist) # ['apple', 'cherry', 'banana', 'kiwi']
+print(thislist) 
+# ['apple', 'cherry', 'banana', 'kiwi']
 </code></pre>
 
 </td>
@@ -348,11 +370,13 @@ print(thislist) # ['apple', 'cherry', 'banana', 'kiwi']
 <pre><code>
 thislist = ["apple", "banana", "cherry"]
 thislist.pop(1)
-print(thislist) # ['apple', 'cherry']
+print(thislist) 
+# ['apple', 'cherry']
 <br>
 thislist = ["apple", "banana", "cherry"]
 thislist.pop()
-print(thislist) # ['apple', 'banana']
+print(thislist) 
+# ['apple', 'banana']
 </code></pre>
 
 </td>
@@ -367,7 +391,9 @@ print(thislist) # ['apple', 'banana']
 <pre><code>
 thislist = ["apple", "banana", "cherry"]
 del thislist
-print(thislist) #this will cause an error because you have succsesfully deleted "thislist".
+print(thislist) 
+#this will cause an error because you 
+#have succsesfully deleted "thislist".
 </code></pre>
 
 </td>
