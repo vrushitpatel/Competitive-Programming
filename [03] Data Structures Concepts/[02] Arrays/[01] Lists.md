@@ -15,7 +15,7 @@ Lists are one of 4 built-in data types in Python used to store collections of da
 - List items are indexed, the first item has index [0], the second item has index [1] etc.
 - When we say that lists are ordered, it means that the items have a defined order, and that order will not change. If you add new items to a list, the new items will be placed at the end of the list.
 
-**Note:** There are some [list methods](https://www.w3schools.com/python/python_lists_methods.asp) that will change the order, but in general: the order of the items will not change.
+**Note:** There are some [list methods](./[03]%20Lists%20Methods.md) that will change the order, but in general: the order of the items will not change.
 
 - Since lists are indexed, lists can have items with the same value.
 
@@ -82,7 +82,7 @@ print(type(mylist)) ----> class 'list'
     </tr>
 <!---------------------------------------------------------------------------------------------->
     <tr>
-        <td>Access Items </td>
+        <td><strong>Access Items</strong></td>
         <td>List items are indexed and you can access them by referring to the index number. <br>Note: The first item has index 0.</td>
         <td>
 <pre><code>
