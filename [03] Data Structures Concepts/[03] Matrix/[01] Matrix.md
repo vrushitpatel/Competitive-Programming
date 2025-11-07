@@ -149,8 +149,7 @@ Original Array
 7 8 9
 Modified Array
 1 2 3
-4 5 6
-11 12 13
+4 5 12 6 
 7 8 9
 
 ```
