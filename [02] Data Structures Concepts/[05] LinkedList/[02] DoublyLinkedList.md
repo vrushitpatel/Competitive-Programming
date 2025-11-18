@@ -135,6 +135,8 @@ def delete_by_value(self, key):
 
     if curr.next:
         curr.next.prev = curr.prev
+    else:
+        self.tail = curr.prev
 ```
 
 ### 7. Traversal (Forward & Backward)
