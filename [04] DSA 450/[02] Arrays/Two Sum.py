@@ -13,3 +13,11 @@ class Solution(object):
                     return [i, j]
         return False
 # Time Complexity: O(n^2)
+
+---------------------------------------------------------------------------
+Method 2:
+        for i in range(len(nums)):
+            compliment = target - nums[i]
+            if compliment in nums[i+1:]:
+                compliment = nums.index(compliment,i+1)
+                return [i, compliment]
