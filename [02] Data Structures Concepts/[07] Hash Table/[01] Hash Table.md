@@ -183,34 +183,7 @@ counter = Counter(arr)
 top_k = counter.most_common(k)
 ```
 
-### 3. Group Anagrams
-
-```python
-from collections import defaultdict
-
-def group_anagrams(strs):
-    anagrams = defaultdict(list)
-    for s in strs:
-        key = ''.join(sorted(s))
-        anagrams[key].append(s)
-    return list(anagrams.values())
-```
-
-### 4. Longest Substring Without Repeating Characters
-
-```python
-def length_of_longest_substring(s):
-    char_map = {}
-    left = max_len = 0
-    for right, char in enumerate(s):
-        if char in char_map and char_map[char] >= left:
-            left = char_map[char] + 1
-        char_map[char] = right
-        max_len = max(max_len, right - left + 1)
-    return max_len
-```
-
-### 5. First Non-Repeating Character
+### 3. First Non-Repeating Character
 
 ```python
 def first_unique_char(s):
@@ -222,23 +195,6 @@ def first_unique_char(s):
         if freq[char] == 1:
             return i
     return -1
-```
-
-### 6. Subarray Sum Equals K
-
-```python
-def subarray_sum(nums, k):
-    count = 0
-    prefix_sum = 0
-    sum_freq = {0: 1}
-
-    for num in nums:
-        prefix_sum += num
-        if prefix_sum - k in sum_freq:
-            count += sum_freq[prefix_sum - k]
-        sum_freq[prefix_sum] = sum_freq.get(prefix_sum, 0) + 1
-
-    return count
 ```
 
 ## Advanced Collections
@@ -366,6 +322,7 @@ class HashTable:
 ## When to Use Hash Table
 
 ✅ **Use when:**
+
 - Need O(1) lookup/insert/delete
 - Checking for existence/duplicates
 - Counting frequencies
@@ -373,6 +330,7 @@ class HashTable:
 - Caching results
 
 ❌ **Don't use when:**
+
 - Need ordered data (use list or OrderedDict)
 - Need range queries (use trees)
 - Memory is constrained
