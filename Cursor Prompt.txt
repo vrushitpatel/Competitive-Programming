@@ -1,0 +1,13 @@
+@[03] Algorithms/[02] Searching Algorithms In this Folder there are multiple DSA Problems solved each around Searching Algorithm. 
+In the @[03] Algorithms/[02] Searching Algorithms/README.md file can you create a index type table where I click and I can get redirected to that file.
+
+Each File also has a link to LeetCode or GeeksforGeeks URL as a comment please import that to in the README.md file
+
+For Example:
+As we see there is a file named "./Search a 2D Matrix.py" 
+So in the ReadMe.md file it must say in the table format:
+Seach a 2D Matrix | Easy | Link to LeetCode | Link to the File
+
+Sort them from Easy to Hard
+
+@[03] Algorithms/README.md This is a reference I have created you have to create the table like this.
